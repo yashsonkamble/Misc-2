@@ -1,4 +1,4 @@
-# Binary-Search-6
+# Miscallaneous-2
 
 ## Problem1: Sparse Search
 
