@@ -1,4 +1,4 @@
-# Miscallaneous-2
+# Miscellaneous-2
 
 ## Problem1: Sparse Search
 
